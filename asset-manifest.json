@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dashboardweb-deploy/static/css/main.5a3c3026.chunk.css",
+    "main.js": "/dashboardweb-deploy/static/js/main.d9bd89d0.chunk.js",
+    "main.js.map": "/dashboardweb-deploy/static/js/main.d9bd89d0.chunk.js.map",
+    "runtime-main.js": "/dashboardweb-deploy/static/js/runtime-main.90682dfc.js",
+    "runtime-main.js.map": "/dashboardweb-deploy/static/js/runtime-main.90682dfc.js.map",
+    "static/css/2.36e35b84.chunk.css": "/dashboardweb-deploy/static/css/2.36e35b84.chunk.css",
+    "static/js/2.6d2e7b3d.chunk.js": "/dashboardweb-deploy/static/js/2.6d2e7b3d.chunk.js",
+    "static/js/2.6d2e7b3d.chunk.js.map": "/dashboardweb-deploy/static/js/2.6d2e7b3d.chunk.js.map",
+    "index.html": "/dashboardweb-deploy/index.html",
+    "precache-manifest.8b0e239a8405e50903c073c565385ee3.js": "/dashboardweb-deploy/precache-manifest.8b0e239a8405e50903c073c565385ee3.js",
+    "service-worker.js": "/dashboardweb-deploy/service-worker.js",
+    "static/css/2.36e35b84.chunk.css.map": "/dashboardweb-deploy/static/css/2.36e35b84.chunk.css.map",
+    "static/css/main.5a3c3026.chunk.css.map": "/dashboardweb-deploy/static/css/main.5a3c3026.chunk.css.map",
+    "static/js/2.6d2e7b3d.chunk.js.LICENSE.txt": "/dashboardweb-deploy/static/js/2.6d2e7b3d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dashboardweb-deploy/static/media/gill-sans-mt.d084e511.ttf",
+    "static/media/logo.png": "/dashboardweb-deploy/static/media/logo.9a7e4d92.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90682dfc.js",
+    "static/css/2.36e35b84.chunk.css",
+    "static/js/2.6d2e7b3d.chunk.js",
+    "static/css/main.5a3c3026.chunk.css",
+    "static/js/main.d9bd89d0.chunk.js"
+  ]
+}
