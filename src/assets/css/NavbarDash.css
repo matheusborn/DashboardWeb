@@ -1,0 +1,22 @@
+.title {
+  position: absolute;
+  left: calc(40%);
+  background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.navbar-dash {
+  border-bottom-style: groove;
+  border-bottom-width: thin;
+}
+
+@media screen and (max-width: 1024px) {
+  .title {
+    display: none !important;
+  }
+
+  .navbar-dash {
+    text-align: center;
+  }
+}

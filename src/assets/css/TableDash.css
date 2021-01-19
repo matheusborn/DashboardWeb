@@ -1,0 +1,53 @@
+.dropdown-toggle {
+  background-color: royalblue !important;
+  border-color: royalblue !important;
+  border: royalblue !important;
+  position: relative;
+  left: -8px;
+}
+
+.btn-outline-info {
+  background-color: white;
+  color: black;
+  border: 2px solid #9ad1d4 !important;
+  margin-left: 10px;
+}
+
+.btn-outline-info:hover {
+  background-color: #fa828b !important;
+  border-color: #fa828b !important;
+}
+
+.btn-info {
+  background-color: #9ad1d4 !important;
+  color: black;
+  border: 2px solid #9ad1d4 !important;
+  margin-left: 10px;
+}
+
+.btn-info:hover {
+  background-color: #47b5bb !important;
+  color: black;
+  border: 2px solid #9ad1d4 !important;
+  margin-left: 10px;
+}
+
+.column-title {
+  background-color: #fa828b;
+  color: whitesmoke;
+}
+
+.react-bs-table-sizePerPage-dropdown button {
+  color: white !important;
+  background-color: #fa828b !important;
+}
+
+.page-item.active .page-link {
+  background-color: #fa828b !important;
+  border-color: #9ad1d4 !important;
+  color: white !important;
+}
+
+.page-link {
+  color: #fa828b !important;
+}

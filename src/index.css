@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+* {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+  font-size: large;
+}
+
+@font-face {
+  font-family: imaki;
+  src: url('./assets/fonts/Imaki.otf');
+}
+@font-face {
+  font-family: imaki-bold;
+  src: url('./assets/fonts/Imaki\ Bold.otf');
+}
+@font-face {
+  font-family: imaki-bold-italic;
+  src: url('./assets/fonts/Imaki\ Bold\ Italic.otf');
+}
+@font-face {
+  font-family: imaki-condensed;
+  src: url('./assets/fonts/Imaki\ Condensed.otf');
+}
+@font-face {
+  font-family: imaki-condensed-bold;
+  src: url('./assets/fonts/Imaki\ Condensed\ Bold.otf');
+}
+@font-face {
+  font-family: imaki-condensed-bold-italic;
+  src: url('./assets/fonts/Imaki\ Condensed\ Bold\ Italic.otf');
+}
+@font-face {
+  font-family: imaki-condensed-italic;
+  src: url('./assets/fonts/Imaki\ Condensed\ Italic.otf');
+}
+@font-face {
+  font-family: imaki-italic;
+  src: url('./assets/fonts/Imaki\ Italic.otf');
+}
+
+@font-face {
+  font-family: gillsans;
+  src: url('./assets/fonts/gill-sans-mt.ttf');
+}
