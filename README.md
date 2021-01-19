@@ -8,4 +8,13 @@ How to use:
   3. npm install
   4. npm start
   
+Screenshots:
+
+  Login Page
+  ![Screenshot](src/assets/img/login.png)
   
+  Alternative Login Page
+  ![Screenshot](src/assets/img/login2.png)
+
+  Home Page
+  ![Screenshot](src/assets/img/home.png)
