@@ -19,5 +19,3 @@ Screenshots:
   Home Page (Table only)
   ![Screenshot](src/assets/img/home.png)
   
-  Home Page (Table and Graph)
-  ![Screenshot](src/assets/img/home2.png)
