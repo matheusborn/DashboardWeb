@@ -16,5 +16,8 @@ Screenshots:
   Alternative Login Page
   ![Screenshot](src/assets/img/login2.png)
 
-  Home Page
+  Home Page (Table only)
   ![Screenshot](src/assets/img/home.png)
+  
+  Home Page (Table and Graph)
+  ![Screenshot](src/assets/img/home2.png)
